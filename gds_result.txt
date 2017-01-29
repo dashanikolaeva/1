@@ -1,0 +1,60 @@
+
+1. FAT-M12-b
+Organism:	Homo sapiens
+Source name:	FAT10 overexpressed mutants with mutation at left and right region
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309049	ID: 301309049
+
+2. FAT-M12-a
+Organism:	Homo sapiens
+Source name:	FAT10 overexpressed mutants with mutation at left and right region
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309048	ID: 301309048
+
+3. FAT-M2-b
+Organism:	Homo sapiens
+Source name:	FAT10 overexpressed mutants with mutation at right region
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309047	ID: 301309047
+
+4. FAT-M2-a
+Organism:	Homo sapiens
+Source name:	FAT10 overexpressed mutants with mutation at right region
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309046	ID: 301309046
+
+5. FAT-M1-b
+Organism:	Homo sapiens
+Source name:	FAT10 overexpressed mutants with mutation at left region
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309045	ID: 301309045
+
+6. FAT-M1-a
+Organism:	Homo sapiens
+Source name:	FAT10 overexpressed mutants with mutation at left region
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309044	ID: 301309044
+
+7. FAT10-2
+Organism:	Homo sapiens
+Source name:	FAT10-overexpressed stable cells
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309043	ID: 301309043
+
+8. FAT10-1
+Organism:	Homo sapiens
+Source name:	FAT10-overexpressed stable cells
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309042	ID: 301309042
+
+9. WT-2
+Organism:	Homo sapiens
+Source name:	wild type HCT116 cells
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309041	ID: 301309041
+
+10. WT-1
+Organism:	Homo sapiens
+Source name:	wild type HCT116 cells
+Platform: GPL10558 Series: GSE54167 Dataset: GDS5439 
+Sample		Accession: GSM1309040	ID: 301309040
